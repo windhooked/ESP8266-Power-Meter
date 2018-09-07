@@ -4,3 +4,4 @@ https://openenergymonitor.org/
 https://github.com/Seitanas/esp-12f-power-meter
 https://github.com/openenergymonitor/EmonLib
 https://www.circuitlab.com/circuit/n97c54/current-transformer-interface-for-arduino/
+https://github.com/vshymanskyy/TinyGSM
